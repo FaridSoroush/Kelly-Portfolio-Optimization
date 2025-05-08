@@ -15,8 +15,8 @@ A quantitative finance project analyzing long-term portfolio growth using the **
 - Equal weighting performs surprisingly well, showing robustness of naive diversification
 
 ## 📈 Charts
-![Growth](images/plot_growth.png)
-![Drawdown](images/drawdown.png)
+![Growth](plot_growth.png)
+![Drawdown](drawdown.png)
 
 ## 📁 Files
 - `KellyPortfolioOptimization.ipynb` — Full code and analysis
