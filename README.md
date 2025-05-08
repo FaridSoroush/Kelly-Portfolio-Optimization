@@ -26,7 +26,7 @@ A quantitative finance project analyzing long-term portfolio growth using the Ke
 - `data/StockData.csv` — Source data (daily adjusted close prices for SPY, QQQ, AAPL)
 - `images/` — Generated charts used in analysis
 
-## Concepts Demonstrated
+## Demonstrated Concepts
 - Log-return and covariance estimation
 - Kelly Criterion weight calculation
 - Fractional Kelly as a risk-adjusted alternative
