@@ -15,7 +15,7 @@ A quantitative finance project analyzing long-term portfolio growth using the **
 - Equal weighting performs surprisingly well, showing robustness of naive diversification
 
 ## 📈 Charts
-![Growth](plot_growth.png)
+![Growth](plot_growth_1.png)
 ![Drawdown](drawdown.png)
 
 ## 📁 Files
