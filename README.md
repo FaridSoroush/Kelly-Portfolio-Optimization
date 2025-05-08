@@ -15,7 +15,7 @@ A quantitative finance project analyzing long-term portfolio growth using the Ke
 - Equal-weighting performs surprisingly well, reinforcing the robustness of naive diversification under noisy parameter estimation
 
 ## Charts
-![Growth](images/plot_growth_1.png)
+![Growth](images/plot_growth.png)
 *Portfolio value over time under different allocation strategies*
 
 ![Drawdown](images/drawdown.png)
