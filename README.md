@@ -21,7 +21,7 @@ A quantitative finance project analyzing long-term portfolio growth using the Ke
 ![Drawdown](images/drawdown.png)
 *Percentage drawdown from peak portfolio value*
 
-## Project Structure
+## Repository Structure
 - `KellyPortfolioOptimization.ipynb` — Complete analysis and visualizations
 - `data/StockData.csv` — Source data (daily adjusted close prices for SPY, QQQ, AAPL)
 - `images/` — Generated charts used in analysis
